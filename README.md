@@ -1,4 +1,6 @@
-## Description for ML Disease Prediction: This dataset seems to be related to predicting the likelihood of an individual developing a disease (likely cardiovascular) based on various risk factors such as age, blood pressure, cholesterol, smoking status, diabetes, family history, and exercise level.
+## Description for ML Disease Prediction: 
+  This dataset seems to be related to predicting the likelihood of an individual developing a disease (likely cardiovascular) based on various risk factors such as age, blood pressure, cholesterol, smoking status, diabetes, family history, and exercise level.
+
 In a machine learning context, this would be a classification problem where the goal is to predict whether an individual has a disease or not (represented by the "Disease" column) based on the input features (age, blood pressure, cholesterol, etc.).
 
 Features (Input Variables): Age, Blood Pressure, Cholesterol, Heart Rate, Smoking Status, Diabetes, Family History, Exercise Level.
